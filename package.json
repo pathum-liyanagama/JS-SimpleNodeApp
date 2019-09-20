@@ -1,0 +1,26 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "hello jenkins test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathum-liyanagama/JS-SimpleNodeApp.git"
+  },
+  "dependencies": {
+    "express": "3.12.0"
+ },
+ "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+ },
+  "author": "Pathum Liyanagama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathum-liyanagama/JS-SimpleNodeApp/issues"
+  },
+  "homepage": "https://github.com/pathum-liyanagama/JS-SimpleNodeApp#readme"
+}
